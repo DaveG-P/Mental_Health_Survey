@@ -1,7 +1,8 @@
 # Mental_Health_Survey
 ## Mental Health Data in the Workplace
 ![alt text](https://github.com/DaveG-P/Mental_Health_Survey/blob/master/Images/Mental_Health.jpg)
-## Mental Health in Tech Survey Survey on Mental Health in the Tech Workplace in 2014 Dataset Information This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+## Mental Health in Tech Survey Survey 
+### Dataset from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
 
 ### Content This dataset contains the following data:
 
